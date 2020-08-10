@@ -1,0 +1,12 @@
+node_modules/
+public/build/
+build/
+build_embed/
+package-lock.json
+.idea/
+.editorconfig
+.env
+.vscode/
+yarn.lock
+.DS_Store
+.next
